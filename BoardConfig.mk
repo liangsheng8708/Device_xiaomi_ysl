@@ -101,7 +101,6 @@ SHRP_EXTERNAL := /sdcard1
 SHRP_INTERNAL := /sdcard
 SHRP_OTG := /usb_otg
 SHRP_FLASH := 1
-SHRP_FLASH_MAX_BRIGHTNESS := 200
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
 SHRP_AB := false
 SHRP_REC_TYPE := Treble

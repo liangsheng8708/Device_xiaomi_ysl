@@ -83,6 +83,8 @@ TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_NTFS_3G := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_THEME := portrait_hdpi
+TW_FORCE_USE_BUSYBOX := true
+
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"

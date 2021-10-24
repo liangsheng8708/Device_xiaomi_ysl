@@ -96,7 +96,7 @@ TARGET_COPY_OUT_VENDOR := vendor
 
 # SHRP flags
 SHRP_PATH := device/xiaomi/ysl
-SHRP_MAINTAINER := MiDoNaSR545
+SHRP_MAINTAINER := liangsheng8708
 SHRP_DEVICE_CODE := ysl
 SHRP_EDL_MODE := 1
 SHRP_EXTERNAL := /sdcard1
@@ -104,7 +104,7 @@ SHRP_INTERNAL := /sdcard
 SHRP_OTG := /usb_otg
 SHRP_FLASH := 1
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
-SHRP_AB := true
+SHRP_AB := false
 SHRP_REC_TYPE := Treble
 SHRP_DEVICE_TYPE := A_Only
 SHRP_DARK := true

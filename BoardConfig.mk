@@ -109,4 +109,4 @@ SHRP_REC_TYPE := Treble
 SHRP_DEVICE_TYPE := A_Only
 SHRP_DARK := true
 SHRP_EXPRESS := true
-SHRP_OFFICIAL := true
+SHRP_OFFICIAL := false
